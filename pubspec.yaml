@@ -27,6 +27,7 @@ dependencies:
   webview_flutter: ^1.0.7
   flutter_webview_plugin: ^0.3.11
   lazy_load_scrollview: ^1.2.0
+  share: ^0.6.5+4
 
 
   # The following adds the Cupertino Icons font to your application.
